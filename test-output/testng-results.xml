@@ -2,19 +2,15 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-03T16:09:06 IST" name="Default suite" finished-at="2022-12-03T16:09:32 IST" duration-ms="25906">
+  <suite started-at="2022-12-03T23:36:23 IST" name="Default suite" finished-at="2022-12-03T23:36:30 IST" duration-ms="6922">
     <groups>
     </groups>
-    <test started-at="2022-12-03T16:09:06 IST" name="Default test" finished-at="2022-12-03T16:09:32 IST" duration-ms="25906">
+    <test started-at="2022-12-03T23:36:23 IST" name="Default test" finished-at="2022-12-03T23:36:30 IST" duration-ms="6922">
       <class name="soap.SoapTestScenario1">
-        <test-method is-config="true" signature="TestDataSetup()[pri:0, instance:soap.SoapTestScenario1@47d9a273]" started-at="2022-12-03T16:09:06 IST" name="TestDataSetup" finished-at="2022-12-03T16:09:06 IST" duration-ms="40" status="PASS">
+        <test-method signature="ValidateWithContains_SOAP()[pri:0, instance:soap.SoapTestScenario1@7e7be63f]" started-at="2022-12-03T23:36:24 IST" name="ValidateWithContains_SOAP" finished-at="2022-12-03T23:36:30 IST" duration-ms="6747" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TestDataSetup -->
-        <test-method signature="CelsiusToFahrenheitResponse()[pri:0, instance:soap.SoapTestScenario1@47d9a273]" started-at="2022-12-03T16:09:06 IST" name="CelsiusToFahrenheitResponse" finished-at="2022-12-03T16:09:32 IST" duration-ms="25771" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- CelsiusToFahrenheitResponse -->
+        </test-method> <!-- ValidateWithContains_SOAP -->
       </class> <!-- soap.SoapTestScenario1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

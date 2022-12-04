@@ -5,8 +5,7 @@
     <classes>
       <class name="soap.SoapTestScenario1">
         <methods>
-          <include name="TestDataSetup"/>
-          <include name="CelsiusToFahrenheitResponse"/>
+          <include name="ValidateWithContains_SOAP"/>
         </methods>
       </class> <!-- soap.SoapTestScenario1 -->
     </classes>
