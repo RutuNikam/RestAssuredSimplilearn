@@ -151,7 +151,7 @@ public class SoapTestScenario1 {
 			}
 			else
 			{
-				System.out.println("No,The Expected Text is available"+"Harry Potter");
+				System.out.println("No,The Expected Text isnot available "+" Harry Potter");
 				break;
 			}
 						
